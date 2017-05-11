@@ -6,7 +6,7 @@
 2. List
 ```
 
-[lianjie](www.baidu.com)
+[lianjie](https://www.baidu.com)
 **jiacu** and _xieti_ and `Code` text
 
 ## Welcome to GitHub Pages
