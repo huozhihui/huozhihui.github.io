@@ -2,11 +2,11 @@
 - Buller
 - List
 
-1. Python
-2. Ruby
+1. Numbered
+2. List
 
-[link](www.baidu.com)
-**Bold** and _Italic_ and `Code` text
+[www.baidu.com]
+**jiacu** and _xieti_ and `Code` text
 
 ## Welcome to GitHub Pages
 
